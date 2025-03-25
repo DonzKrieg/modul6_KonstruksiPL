@@ -16,6 +16,8 @@ namespace modul6_103022330150
         {
             if (string.IsNullOrEmpty(title))
                 throw new ArgumentException("Judul tidak boleh kosong!");
+            if (title.Length > 200)
+                throw new ArgumentException("Judul video tidak boleh lebih dari 200 karakter!");
 
             Random random = new Random();
             this.id = random.Next(10000, 99999);
@@ -27,8 +29,20 @@ namespace modul6_103022330150
         {
             if (count < 0)
                 throw new ArgumentException("Play count tidak boleh negatif!");
+            if (count > 25000000)
+                throw new ArgumentException("Play count maksimal 25000000 per panggilan!");
 
-            playCount += count;
+            try
+            {
+                checked
+                {
+                    playCount += count;
+                }
+            }
+            catch (OverflowException)
+            {
+                Console.WriteLine("ERROR: Terjadi OverFlow karena penambahan paly count!");
+            }
         }
 
         public void PrintVideoDetails()

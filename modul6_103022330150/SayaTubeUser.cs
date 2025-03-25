@@ -16,6 +16,8 @@ namespace modul6_103022330150
         {
             if (string.IsNullOrEmpty(username))
                 throw new ArgumentException("Username tidak boleh kosong!");
+            if (username.Length > 100)
+                throw new ArgumentException("Username tidak boleh lebih dari 100 karakter!");
 
             Random random = new Random();
             this.id = random.Next(10000, 99999);
@@ -27,6 +29,8 @@ namespace modul6_103022330150
         {
             if (video == null)
                 throw new ArgumentException("Video tidak boleh kosong!");
+            if (video.GetPlayCount() >= int.MaxValue)
+                throw new ArgumentException("Play Count Video tidak boleh lebih dari nilai integer maksimum!");
 
             uploadedVideos.Add(video);
         }
@@ -45,7 +49,7 @@ namespace modul6_103022330150
         {
             Console.WriteLine($"ID: {id}");
             Console.WriteLine($"User: {username}");
-            for (int i = 0; i < uploadedVideos.Count; i++)
+            for (int i = 0; i < Math.Min(uploadedVideos.Count, 8); i++)
             {
                 Console.WriteLine($"Video { i+ 1} judul: {uploadedVideos[i].GetTitle()}");
             }
