@@ -1,0 +1,15 @@
+C:\Konstruksi PL\modul6_103022330150\modul6_103022330150\bin\Debug\net8.0\modul6_103022330150.exe
+C:\Konstruksi PL\modul6_103022330150\modul6_103022330150\bin\Debug\net8.0\modul6_103022330150.deps.json
+C:\Konstruksi PL\modul6_103022330150\modul6_103022330150\bin\Debug\net8.0\modul6_103022330150.runtimeconfig.json
+C:\Konstruksi PL\modul6_103022330150\modul6_103022330150\bin\Debug\net8.0\modul6_103022330150.dll
+C:\Konstruksi PL\modul6_103022330150\modul6_103022330150\bin\Debug\net8.0\modul6_103022330150.pdb
+C:\Konstruksi PL\modul6_103022330150\modul6_103022330150\obj\Debug\net8.0\modul6_103022330150.GeneratedMSBuildEditorConfig.editorconfig
+C:\Konstruksi PL\modul6_103022330150\modul6_103022330150\obj\Debug\net8.0\modul6_103022330150.AssemblyInfoInputs.cache
+C:\Konstruksi PL\modul6_103022330150\modul6_103022330150\obj\Debug\net8.0\modul6_103022330150.AssemblyInfo.cs
+C:\Konstruksi PL\modul6_103022330150\modul6_103022330150\obj\Debug\net8.0\modul6_103022330150.csproj.CoreCompileInputs.cache
+C:\Konstruksi PL\modul6_103022330150\modul6_103022330150\obj\Debug\net8.0\modul6_103022330150.sourcelink.json
+C:\Konstruksi PL\modul6_103022330150\modul6_103022330150\obj\Debug\net8.0\modul6_103022330150.dll
+C:\Konstruksi PL\modul6_103022330150\modul6_103022330150\obj\Debug\net8.0\refint\modul6_103022330150.dll
+C:\Konstruksi PL\modul6_103022330150\modul6_103022330150\obj\Debug\net8.0\modul6_103022330150.pdb
+C:\Konstruksi PL\modul6_103022330150\modul6_103022330150\obj\Debug\net8.0\modul6_103022330150.genruntimeconfig.cache
+C:\Konstruksi PL\modul6_103022330150\modul6_103022330150\obj\Debug\net8.0\ref\modul6_103022330150.dll

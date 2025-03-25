@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Konstruksi PL\\modul6_103022330150\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8312C21B-7456-4056-98AE-5ECF5A01BE8D}|modul6_103022330150\\modul6_103022330150.csproj|c:\\konstruksi pl\\modul6_103022330150\\modul6_103022330150\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8312C21B-7456-4056-98AE-5ECF5A01BE8D}|modul6_103022330150\\modul6_103022330150.csproj|solutionrelative:modul6_103022330150\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8312C21B-7456-4056-98AE-5ECF5A01BE8D}|modul6_103022330150\\modul6_103022330150.csproj|c:\\konstruksi pl\\modul6_103022330150\\modul6_103022330150\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8312C21B-7456-4056-98AE-5ECF5A01BE8D}|modul6_103022330150\\modul6_103022330150.csproj|solutionrelative:modul6_103022330150\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8312C21B-7456-4056-98AE-5ECF5A01BE8D}|modul6_103022330150\\modul6_103022330150.csproj|c:\\konstruksi pl\\modul6_103022330150\\modul6_103022330150\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8312C21B-7456-4056-98AE-5ECF5A01BE8D}|modul6_103022330150\\modul6_103022330150.csproj|solutionrelative:modul6_103022330150\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8312C21B-7456-4056-98AE-5ECF5A01BE8D}|modul6_103022330150\\modul6_103022330150.csproj|c:\\konstruksi pl\\modul6_103022330150\\modul6_103022330150\\sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8312C21B-7456-4056-98AE-5ECF5A01BE8D}|modul6_103022330150\\modul6_103022330150.csproj|solutionrelative:modul6_103022330150\\sayatubeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SayaTubeUser.cs",
+              "DocumentMoniker": "C:\\Konstruksi PL\\modul6_103022330150\\modul6_103022330150\\SayaTubeUser.cs",
+              "RelativeDocumentMoniker": "modul6_103022330150\\SayaTubeUser.cs",
+              "ToolTip": "C:\\Konstruksi PL\\modul6_103022330150\\modul6_103022330150\\SayaTubeUser.cs",
+              "RelativeToolTip": "modul6_103022330150\\SayaTubeUser.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T00:08:39.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "C:\\Konstruksi PL\\modul6_103022330150\\modul6_103022330150\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "modul6_103022330150\\SayaTubeVideo.cs",
+              "ToolTip": "C:\\Konstruksi PL\\modul6_103022330150\\modul6_103022330150\\SayaTubeVideo.cs",
+              "RelativeToolTip": "modul6_103022330150\\SayaTubeVideo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T23:57:19.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Konstruksi PL\\modul6_103022330150\\modul6_103022330150\\Program.cs",
-              "RelativeDocumentMoniker": "modul6_103022330150\\Program.cs",
-              "ToolTip": "C:\\Konstruksi PL\\modul6_103022330150\\modul6_103022330150\\Program.cs",
-              "RelativeToolTip": "modul6_103022330150\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Konstruksi PL\\modul6_103022330150\\modul6_103022330150\\Main.cs",
+              "RelativeDocumentMoniker": "modul6_103022330150\\Main.cs",
+              "ToolTip": "C:\\Konstruksi PL\\modul6_103022330150\\modul6_103022330150\\Main.cs",
+              "RelativeToolTip": "modul6_103022330150\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T23:44:11.962Z",
               "EditorCaption": ""
